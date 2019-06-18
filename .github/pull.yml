@@ -1,7 +1,7 @@
 version: "1"
 rules:
   - base: master
-    upstream: aviperes:pull-new-branch
+    upstream: aviperes:pull-test-branch
     mergeMethod: merge
     reviewers:
       - aviperes
