@@ -5,5 +5,5 @@ rules:
     mergeMethod: merge
     reviewers:
       - hashark
-    label: ":arrow_heading_down: pull"  # Optional
+label: ":arrow_heading_down: pull"  # Optional
 
