@@ -1,6 +1,6 @@
 version: "1"
 rules:
-  - base: master
+  - base: pull-into-branch
     upstream: aviperes:pull-from-branch
     mergeMethod: merge
     reviewers:
