@@ -16,4 +16,5 @@ def now_what():
   print 'now WHAT?'
   print 'now WHAT?'
   print 'now WHAT?'
+  print 'changed now what in hashark'
   print 'now WHAT?'
