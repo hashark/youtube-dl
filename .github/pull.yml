@@ -1,7 +1,7 @@
 version: "1"
 rules:
-  - base: pull-new-branch
-    upstream: aviperes:pull-test-branch
+  - base: pull-into-branch
+    upstream: aviperes:pull-from-branch
     mergeMethod: merge
     reviewers:
       - hashark
