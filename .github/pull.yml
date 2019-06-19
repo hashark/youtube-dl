@@ -2,7 +2,7 @@ version: "1"
 rules:
   - base: pull-into-branch
     upstream: aviperes:pull-from-branch
-    mergeMethod: merge
+    mergeMethod: hardreset
     reviewers:
       - hashark
 label: ":arrow_heading_down: pull"  # Optional
